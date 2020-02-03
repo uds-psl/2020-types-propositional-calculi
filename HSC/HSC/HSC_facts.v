@@ -3,7 +3,7 @@ Import ListNotations.
 Require Import Psatz.
 Require Import ssreflect ssrbool ssrfun. 
 
-From Undecidability.HSC Require Import HSC_prelim HSC_AX HSC_AX.util.
+From Undecidability.HSC Require Import HSC_prelim HSC_AX HSC.HSC_util.
 
 (* number of nodes in the syntax tree of a formula *)
 Fixpoint size s := 
