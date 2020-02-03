@@ -1,4 +1,4 @@
-Mechanization (in the Coq proof assistant) of a synthetic many-one reduction from the binary modified Post correspondence problem `PCP.BMPCP` to the following two problems for propositional calculi:
+Mechanization (in the Coq proof assistant) of synthetic many-one reductions from the binary modified Post correspondence problem `PCP.BMPCP` to the following two problems for propositional calculi:
 
 - recognizing axiomatizations of Hilbert-style calculi (`HSC.HSC_AX`)
 - provability in Hilbert-style calculi (`HSC.HSC_PRV`)
