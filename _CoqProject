@@ -1,0 +1,18 @@
+-Q . Undecidability
+
+COQDOCFLAGS = "--charset utf-8"
+
+Reduction.v
+
+PCP/PCP.v
+
+HSC/HSC_prelim.v
+HSC/HSC_AX.v
+HSC/HSC_PRV.v
+
+HSC/HSC/HSC_util.v
+HSC/HSC/HSC_facts.v
+
+HSC/HSC_AX/BMPCP_to_HSC_AX.v
+
+HSC/HSC_PRV/BMPCP_to_HSC_PRV.v
